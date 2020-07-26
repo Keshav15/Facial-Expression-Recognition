@@ -21,7 +21,7 @@
     <li> Try image augementation</li>
     <li> Run model for more no of Epochs</li>
     <li> You can do this things with the help of train and test datasets </li>
-    <a href=""> Link fr Train and Test Datasets</a>
+    <a href=""> Link for Train and Test Datasets</a>
     
   
   
